@@ -8,5 +8,6 @@
 #second-div {
     width: 250px;
     height: 200px;
-    background-color: blue; 
+    background-color: blue;
+    display: inline-block;
 }
