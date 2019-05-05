@@ -1,0 +1,12 @@
+.first-div {
+    width: 250px;
+    height: 200px;
+    background: red;
+    display: inline-block;
+}
+
+#second-div {
+    width: 250px;
+    height: 200px;
+    background-color: blue; 
+}

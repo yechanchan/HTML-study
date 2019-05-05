@@ -4,3 +4,11 @@
     background: orange;
     display: inline-block;
 }
+
+#second-div {
+    background-color: blueviolet; 
+}
+
+#second-div > .test {
+    display: block; 
+}
