@@ -26,8 +26,9 @@ body {
     background: rgb(253, 166, 231);
     float: left;
 }
-#article{
+.section > #article{
     background: rgb(50, 248, 205);
+    
 }
 
 footer{
